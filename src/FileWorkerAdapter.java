@@ -1,6 +1,3 @@
-
-import com.codegym.FileUtil;
-
 import java.io.File;
 
 public class FileCalculatorAdapter implements FileCalculator {
